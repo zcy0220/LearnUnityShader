@@ -2,6 +2,7 @@
 /Temp
 /Library
 /Logs
+/BuiltinShaders
 
 # ---------------[ VSCode ]------------------ #
 /.vscode
