@@ -3,9 +3,12 @@
 /Library
 /Logs
 /BuiltinShaders
+/obj
 
 # ---------------[ VSCode ]------------------ #
+/.vs
 /.vscode
 
 # ---------------[ Visual Studio ]------------------ #
 /*.sln
+/*.csproj
